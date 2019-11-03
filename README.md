@@ -1,2 +1,2 @@
 # fire-up-usb
-Copy all files using Python3
+# Copy all files using Python3
